@@ -1,0 +1,7 @@
+
+streamlit
+torch
+torchvision
+transformers>=4.45,<5.0
+pillow
+safetensors
